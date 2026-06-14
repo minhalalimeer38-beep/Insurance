@@ -135,17 +135,6 @@ The model is evaluated using regression metrics:
 ✔ Good performance (R² ≈ 0.87)
 ✔ Real-world dataset (Insurance cost prediction)
 
-
----
-
-## ▶️ How to Run
-
-```python
-python main.py
-```
-
-OR run notebook step-by-step.
-
 ---
 
 ## 🔥 Conclusion
